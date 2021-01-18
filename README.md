@@ -18,7 +18,7 @@
 ## R
 
 ### 설치
-1. 저장소 전체를 zip 파일로 다운로드하거나 오른쪽 코드를 터미널에서 실행 ```git clone https://github.com/agconti/kaggle-titanic.git```
+1. 저장소 전체를 zip 파일로 다운로드하거나 오른쪽 코드를 터미널에서 실행 ```https://github.com/helloMinji/Kaggle_titanic.git```
 2. R [설치](https://www.r-project.org/) (cran - 원하는 나라의 링크 아무거나 클릭 - 알맞은 os 버전 선택)
 3. R studio [설치](https://www.rstudio.com/)
 4. R studio에서 analysis_191015.R을 실행 (코드의 package 중 필요한 패키지는 코드 내에서 설치: install.packages("패키지명") )
